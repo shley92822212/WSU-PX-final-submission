@@ -1,0 +1,18 @@
+Install Python
+
+Install dependencies
+cv2, numpy, tqdm and torch
+
+Instructions for installing Pytorch on your system can be gotten from this website https://pytorch.org/get-started/locally/
+The rest can be installed using Pip install
+
+Open terminal, and navigate to the "Machine learning proof of concept"
+
+To run the project use the command,
+deploy.py <image name>.png
+
+The provided images can be run with
+deploy.py test.png
+and
+deploy.py test.png
+Respectively
